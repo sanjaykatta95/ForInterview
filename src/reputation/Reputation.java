@@ -54,6 +54,22 @@ public class Reputation {
         System.out.println(b.getA()); // -- 12-- 12
 
 
+        /*
+        * insert into table
+insert into table
+insert into table
+insert into table
+insert into table
+create index
+insert into table
+insert into table
+insert into table
+insert into table
+insert into table
+rollback;
+what would happen in the above case
+        * */
+
     }
 
 }
