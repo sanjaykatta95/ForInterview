@@ -1,4 +1,4 @@
-package exceptions;
+package Freshworks.exceptions;
 
 public class ValidationException extends RuntimeException{
     public ValidationException(String msg){

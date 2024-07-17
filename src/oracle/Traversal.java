@@ -1,4 +1,4 @@
-package others;
+package oracle;
 
 public class Traversal {
     int[][] dirs = {{0, -1}, {1, 0}, {0, 1}};

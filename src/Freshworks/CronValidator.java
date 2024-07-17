@@ -1,6 +1,6 @@
-package validation;
+package Freshworks;
 
-import exceptions.ValidationException;
+import Freshworks.exceptions.ValidationException;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package others;
+package CoForge;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,7 +16,7 @@ class Employee {
 
     @Override
     public String toString() {
-        return "others.Employee{" +
+        return "CoForge.Employee{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", dept='" + dept + '\'' +
