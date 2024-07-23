@@ -51,7 +51,4 @@ src/main/resources/ccm/
 .idea/vcs.xml
 .idea/modules.xml
 .idea/misc.xml
-.idea/workspace.xml
-.idea/vcs.xml
-.idea/modules.xml
-.idea/misc.xml
+.idea/*
