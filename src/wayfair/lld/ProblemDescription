@@ -1,0 +1,29 @@
+You have been hired to design a fully automated parking system. You will need to be able to keep track of cars, how many parking spaces are left, and car check in/out. The parking lot will have three sizes of parking spaces, Small, Medium, and Large. There will be 50 small spaces, 100 medium spaces, and 30 large spaces available. Customers will drive onto an automated lift that will measure the car's size automatically and classify it. A display will show the customer the amount of open spots for their car size and will leave their car on the lift for parking; if they do, they get a ticket with a unique identifier printed. The lift will then move the car to the most appropriate spot.
+
+Summary of the requirements:
+
+• The parking building has 50 small, 100 medium and 30 large parking spaces
+
+The customer drives onto a lift with a terminal next to it
+
+• The car gets automatically measured and classified as small, medium or large
+
+The display shows the number of open spots for the car
+
+• If there are open spaces, the customer can leave their car on the lift and a ticket with a unique identifier is printed by the terminal
+
+The system then assigns the car to a parking spot and moves it there
+
+Deliverable
+
+Can include but not limited to:
+
+• API spec
+
+• Class diagrams
+
+Schema design
+
+Sequence diagram
+
+Collaboration diagram
