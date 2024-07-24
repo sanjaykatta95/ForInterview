@@ -8,8 +8,21 @@ import java.util.stream.Collectors;
 
 public class DSARound {
 
+    public static void main(String[] args) {
+
+        streamsAndCollectors();
+
+        binarySearchInRotatedArray();
+
+    }
+
+    /*Given an array, find the kth most frequent element*/
+    private static void kthMostFrequentElement() {
+        //Explained the logic and time complexity, he was fine with it
+    }
 
     /*Given a map of string, List<Integer> , use streams to get map of string, max of the list of integers*/
+
     private static void streamsAndCollectors() {
 
         Map<String, List<Integer>> map = new HashMap<>();
@@ -56,14 +69,6 @@ public class DSARound {
         System.out.println(index);
     }
 
-
-    public static void main(String[] args) {
-
-        streamsAndCollectors();
-
-        binarySearchInRotatedArray();
-
-    }
 
     private static int binarySearch(int[] nums, int l, int r, int target) {
         while (l <= r) {
