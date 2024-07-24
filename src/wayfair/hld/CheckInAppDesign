@@ -1,0 +1,20 @@
+SWE_SystemsDesign_Mobile_Check- inApp-Part1
+
+Description
+
+Mobile Check-in App
+
+We want to build an application that will enable users to log the locations they visit using a "check-in" feature, "Check-in" means they will record where they are, what they are doing, and any other information they choose to input. The locations/points of interest will be suggested using their current location (i.e. if they are close to Copley the application will suggest "Copley Mall" as their current location). Users will be able to view their history to help them re-visit places they enjoyed, avoid the ones they didn't, and find new locations they might enjoy.
+
+We will produce a system architecture diagram drawing the components of a backend system that will support this application.
+
+The locations should be tagged with categories such as Restaurant, Park, Office, etc
+
+We want to build internal reports such as:
+
+• How many and what users are at a given location
+
+• Top N categories with the highest number of check-ins for each month
+
+Users will want to review their location history and view metrics such as how long they were at a location or how many times they have visited in the past.
+

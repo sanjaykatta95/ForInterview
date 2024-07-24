@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c5ebd1-0674-4885-aa38-265b65549372" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/WarnerBros/DSARound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wayfair/hld/CheckInAppDesign" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoForge/CoForge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoForge/CoForge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoForge/CoForgeJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoForge/CoForgeJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factset/FactSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factset/FactSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Freshworks/CronValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Freshworks/CronValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Freshworks/exceptions/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Freshworks/exceptions/ValidationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Highspot/LongestSubstringWithoutRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Highspot/LongestSubstringWithoutRepeatingChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Highspot/NumberOfIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Highspot/NumberOfIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Highspot/RobotSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Highspot/RobotSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WarnerBros/DSARound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WarnerBros/DSARound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oracle/Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oracle/Traversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reputation/Reputation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reputation/Reputation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wayfair/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wayfair/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wayfair/lld/ParkingLotLLD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wayfair/lld/ParkingLotLLD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
